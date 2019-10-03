@@ -1,1 +1,1 @@
-# tech-thing
+# Tech-thing
